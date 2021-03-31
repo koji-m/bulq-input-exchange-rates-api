@@ -1,0 +1,3 @@
+from . import bulq_input_exchange_rates_api
+
+plugin = bulq_input_exchange_rates_api.BulqInputExchangeRatesApi
